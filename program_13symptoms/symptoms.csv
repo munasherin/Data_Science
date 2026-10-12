@@ -1,0 +1,11 @@
+Chills,RunningNose,Headache,Fever,HasFlu
+Y,N,mild,Y,Yes
+Y,Y,none,Y,Yes
+Y,N,strong,Y,Yes
+N,Y,mild,N,No
+N,N,none,N,No
+Y,Y,strong,Y,Yes
+N,Y,strong,N,No
+Y,N,none,Y,Yes
+N,N,mild,N,No
+Y,Y,mild,Y,Yes
